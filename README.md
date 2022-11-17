@@ -1,13 +1,13 @@
 <h1 align="center"> Clone da tela de login do Instagram </h1>
 
-----------------------------Tela modelo a ser clonada-------------------------------------
+----------------------------Tela modelo a ser clonada------------------------
 
 <img src="https://github.com/Andre-Toigo/CloneInstagram/blob/main/assets/Telas/TelaModelo.png" width="550" height="500">
 
 
-------------------------------Tela de login clonada----------------------------------------
+------------------------------Tela de login clonada-------------------------
 
----------------------------<img src="https://github.com/Andre-Toigo/CloneInstagram/blob/main/assets/Telas/MinhaTela1.png" width="210" height="500">---------------------------------------
+---------------------------<img src="https://github.com/Andre-Toigo/CloneInstagram/blob/main/assets/Telas/MinhaTela1.png" width="210" height="500">-------------------------
 
 
                           
